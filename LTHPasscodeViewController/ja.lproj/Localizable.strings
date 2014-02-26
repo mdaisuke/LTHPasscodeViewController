@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+*/
+"Enter Passcode" = "パスコードを入れてください";
+
+"Enter your old passcode" = "古いパスコードを入れてください";
+
+"Enter your passcode" = "パスコードを入れてください";
+
+"Enable Passcode" = "パスコードをオンにする";
+
+"Change Passcode" = "パスコードを変更";
+
+"Turn Off Passcode" = "パスコードをオフにする";
+
+"Re-enter your passcode" = "パスコードを再度入れてください";
+
+"Re-enter your new passcode" = "新しいパスコードを再度入れてください";
+
+"Enter your new passcode" = "新しいパスコードを入れてください";
+
+"Passcodes did not match. Try again." = "パスコードが間違っています";
+
+"1 Passcode Failed Attempt" = "1回失敗しました";
+
+"%i Passcode Failed Attempts" = "%i回失敗しました";
